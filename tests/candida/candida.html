@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width,initial-scale=1'>
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <link rel='stylesheet' href='../../assets/css/global.css'>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,200;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/lib/sakura.css" />
+  <link rel="stylesheet" href="../../assets/css/survey.css"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/favs/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/favs/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/favs/favicon-16x16.png">
+  <link rel="manifest" href="../../assets/favs/site.webmanifest">
+  <title>Тест на кандидоз</title>
+</head>
+<body>
+<main class="test-background">
+  <div class="test-container container">
+    <h1 class="test-container-header">ТЕСТ НА КАНДИДОЗ</h1>
+    <div class="break"></div>
+    <div class="test-container-question_numbers"></div>
+    <div class="break"></div>
+    <div class="test-container-card">
+      <p class="test-container-card-text">Здравствуйте! Предлагаем Вам пройти простой тест на выявление основных признаков кандидоза</p>
+    </div>
+    <div class="break"></div>
+    <div class="test-container-button">
+      <button id="test-button-start" onclick="machine.performTransition('ANSWERING')">Начать</button>
+    </div>
+  </div>
+</main>
+<script src="../../assets/lib/sakura.js" text="text/javascript"></script>
+<script src="../../assets/lib/sakura_settings.js"></script>
+<script src="./candida.js"></script>
+<script src="./candida_score.js"></script>
+<script src="../../worker/survey.js"></script>
+</body>
+</html>
+
+
+
