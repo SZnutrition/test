@@ -4,7 +4,7 @@ let analyzes = [
         analyzeHref: 'how.html',
         analyzeSrc:'anemia.js',
         analyzeScore: 'anemia_score.js',
-        analyzeDescription: 'Анализы на анемию\n Общий анализ крови\n Ферритин\n В9\n В12\n Трансферрин\n ОЖСС\n',
+        analyzeDescription: 'Анализы на анемию:\n Общий анализ крови\n Ферритин\n В9\n В12\n Трансферрин\n ОЖСС\n',
         analyzeImg: "assets/pics/anemia_diagnostic.jpg",
         analyzeBtn: "КАК РАСШИФРОВАТЬ АНАЛИЗЫ"
     },
@@ -13,7 +13,7 @@ let analyzes = [
         analyzeHref: 'how.html',
         analyzeSrc:'anemia.js',
         analyzeScore: 'anemia_score.js',
-        analyzeDescription: 'Анализы на гипотиреоз\n ТТГ\n Т3 св.\n Т4 св.\n АТ-ТПО\n',
+        analyzeDescription: 'Анализы на гипотиреоз:\n ТТГ\n Т3 св.\n Т4 св.\n АТ-ТПО\n',
         analyzeImg: "assets/pics/gipo_diagnostic.jpg",
         analyzeBtn: "КАК РАСШИФРОВАТЬ АНАЛИЗЫ"
     },
@@ -22,7 +22,7 @@ let analyzes = [
         analyzeHref: 'how.html',
         analyzeSrc:'anemia.js',
         analyzeScore: 'anemia_score.js',
-        analyzeDescription: 'Анализы на резистентность к инсулину\n Глюкоза\n Инсулин\n Индекс НОМА\n Индекс Caro\n',
+        analyzeDescription: 'Анализы на резистентность к инсулину:\n Глюкоза\n Инсулин\n Индекс НОМА\n Индекс Caro\n',
         analyzeImg: "assets/pics/insulin_diagnostic.jpg",
         analyzeBtn: "КАК РАСШИФРОВАТЬ АНАЛИЗЫ"
     },
@@ -40,7 +40,7 @@ let analyzes = [
         analyzeHref: 'how.html',
         analyzeSrc:'anemia.js',
         analyzeScore: 'anemia_score.js',
-        analyzeDescription: 'Анализы на дефицит белка\n Общий белок\n Альбумин\n Копрограмма\n',
+        analyzeDescription: 'Анализы на дефицит белка:\n Общий белок\n Альбумин\n Копрограмма\n',
         analyzeImg: "assets/pics/belok_diagnostic.jpg",
         analyzeBtn: "КАК РАСШИФРОВАТЬ АНАЛИЗЫ"
     },
