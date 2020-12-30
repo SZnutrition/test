@@ -51,7 +51,7 @@ let analyzes = [
         analyzeScore: 'anemia_score.js',
         analyzeDescription: 'Не существует показательного анализа на дефицит магния. Если вы испытываете данные симптомы, то необходимо принимать магний в добавках.',
         analyzeImg: "assets/pics/magnesium_diagnostic.jpg",
-        analyzeBtn: "Пост про магний"
+        analyzeBtn: "Пост про магнийfhfjjhjh"
     },
     {
         analyzeName: 'СИБР',
