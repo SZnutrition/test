@@ -4,7 +4,7 @@ let analyzes = [
         analyzeHref: 'how.html',
         analyzeSrc:'anemia.js',
         analyzeScore: 'anemia_score.js',
-        analyzeDescription: 'Анализы на анемию:\n Общий анализ крови\n Ферритин\n В9\n В12\n Трансферрин\n ОЖСС\n',
+        analyzeDescription: 'Анализы на анемию:\n -Общий анализ крови\n -Ферритин\n -В9\n -В12\n Трансферрин\n ОЖСС\n',
         analyzeImg: "assets/pics/anemia_diagnostic.jpg",
         analyzeBtn: "КАК РАСШИФРОВАТЬ АНАЛИЗЫ"
     },
